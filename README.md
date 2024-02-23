@@ -25,6 +25,20 @@ pip install tk
 
 The `Olivetti faces` dataset comes from the sklearn library and includes 40 different person and 10 images per person, making a total of 400 images.
 
-## Colaborators
+# Results
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div>
+    <p>If the person is found in the dataset:</p>
+    <img src="./picture_data/result-person-found.png" alt="found" width="400"/>
+  </div>
+  
+  <div>
+    <p>If this is not the case:</p>
+    <img src="./picture_data/result-person-not-found.png" alt="not found" width="400"/>
+  </div>
+</div>
+
+# Colaborators
 - [Romain CHEVALLIER](https://github.com/rchevallier1234)
 - [Adam LESAGE](https://github.com/AdamLesage)
